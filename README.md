@@ -55,9 +55,9 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/flutter-community/a-pragmatic-approach-to-error-handling-468c4ac1a645"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> A Pragmatic Approach to Error handling</b></a><br/></li>
-  <li><a href="https://medium.com/flutter-community/managing-multi-package-flutter-projects-with-melos-c8ce96fa7c82"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Managing multi-package Flutter projects with Melos</b></a><br/></li>
-    <li><a href="https://medium.com/codechai/architecting-your-flutter-project-bd04e144a8f1"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Architect your Flutter project using BLoC pattern</b></a><br/></li>
+  <li><a href="https://medium.com/flutter-community/a-pragmatic-approach-to-error-handling-468c4ac1a645">A Pragmatic Approach to Error handling</a><br/></li>
+  <li><a href="https://medium.com/flutter-community/managing-multi-package-flutter-projects-with-melos-c8ce96fa7c82">Managing multi-package Flutter projects with Melos</a><br/></li>
+    <li><a href="https://medium.com/codechai/architecting-your-flutter-project-bd04e144a8f1">Architect your Flutter project using BLoC pattern</a><br/></li>
   <li><a href="https://medium.com/flutterpub/architect-your-flutter-project-using-bloc-pattern-part-2-d8dd1eca9ba5"><b>Architect your Flutter project using BLOC pattern (Part 2)</b></a><br/></li>
 </ul>
 
